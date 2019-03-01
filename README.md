@@ -1,3 +1,3 @@
 # Distributed-Averaging
-Castalia codes for distributed consensus algorithms in WSN
+Castalia codes for distributed consensus algorithms in WSN  
 To be edited soon...
